@@ -9,3 +9,14 @@ Hier findest du Erklaerungen zu verschiedenen Begriffen:
 - [Hier geht's zum Skript](Skript.md)
 
 ![image](https://github.com/user-attachments/assets/99d9ce56-e718-4f0a-9c59-75bdd8612d6d)
+
+---
+
+sd
+
+--
+
+sd
+
+-
+s
