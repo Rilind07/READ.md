@@ -6,4 +6,4 @@ Hier findest du Erklaerungen zu verschiedenen Begriffen:
 - [OnPremise, Public-, Private- und Hybridcloud](onpremise-public-private-hybridcloud.md)
 
 # Mein Projekt 2
-([Hier geht's zum Skript](*Skript.md)
+- [Hier geht's zum Skript](Skript.md)
